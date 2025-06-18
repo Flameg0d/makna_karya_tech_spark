@@ -21,6 +21,9 @@ New Update V.1.2
 * Melengkapi Link di Footer ( Hasya )
 * Melengkapi Activity Keikutsertaan Contributor ( Sagara,Rahadian,Agni,Hasya )
 
+New Update V.1.3
+*mengubah news fetch menjadi sanity.io
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
